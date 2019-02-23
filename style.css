@@ -1,0 +1,15 @@
+body {
+margin: 0 auto;
+max-width: 50em;
+	padding: 4em 1em;
+	fony-family: "Helvetica" , "Arial" , sans-serif;
+line-height: 1.5;
+color: #555;
+background-color: #f2f2f2;
+}
+img {
+	max-height: 200px;
+}
+h1,h2{
+	color: black;
+}
